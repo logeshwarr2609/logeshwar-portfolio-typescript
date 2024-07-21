@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/r3f-gyroid-sphere-operable/static/css/main.167dce29.css",
+    "main.js": "/r3f-gyroid-sphere-operable/static/js/main.9ef0e32e.js",
+    "static/js/787.46dfc3b0.chunk.js": "/r3f-gyroid-sphere-operable/static/js/787.46dfc3b0.chunk.js",
+    "index.html": "/r3f-gyroid-sphere-operable/index.html",
+    "main.167dce29.css.map": "/r3f-gyroid-sphere-operable/static/css/main.167dce29.css.map",
+    "main.9ef0e32e.js.map": "/r3f-gyroid-sphere-operable/static/js/main.9ef0e32e.js.map",
+    "787.46dfc3b0.chunk.js.map": "/r3f-gyroid-sphere-operable/static/js/787.46dfc3b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167dce29.css",
+    "static/js/main.9ef0e32e.js"
+  ]
+}
